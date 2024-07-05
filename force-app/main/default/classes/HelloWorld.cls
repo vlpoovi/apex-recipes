@@ -1,7 +1,6 @@
 global class HelloWorld{
 public String hello() {
-//updated hello class again
-//PR1
+//updated hello class
     return 'Hello World!';
     }
     }
